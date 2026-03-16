@@ -23,13 +23,9 @@
 ## 🧱 Basic SOSL Syntax
 
 ```sql
-FIND {SearchQuery}
-  [IN SearchGroup]
-  [RETURNING ObjectsAndFields]
-  [WHERE FilterCondition]
-  [ORDER BY Field]
-  [LIMIT n]
+FIND {SearchQuery} IN <SearchGroup> RETURNING ObjectsAndFields  
 ```
+<img width="1000" alt="12" src="https://github.com/user-attachments/assets/ebe0db55-d9a0-452c-a73e-9c28a5a765c7" />  
 
 ---
 
